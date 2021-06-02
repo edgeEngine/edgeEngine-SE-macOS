@@ -6,7 +6,7 @@ edgeEngine for MacOS Platform
 1. Download latest release for MacOS [HERE](https://github.com/edgeEngine/egdeengine-macos/releases)
 2. Create new directory
 3. Move package to newly created directory 
-4. Open terminal and naviagte to newly created directroy that now has the downloaded package 
+4. Open terminal and navigate to the newly created directory that now has the downloaded .tar file
 5. Untar package (ex:)
 ```
 tar xvf edgeEngine-macos-setup-v2.3.1.tar

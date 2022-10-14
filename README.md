@@ -1,4 +1,5 @@
-# egdeengine-macos
+# dgeEngine-SE-macOS
+
 edgeEngine for MacOS Platform
 
 # Installation Guide

@@ -1,4 +1,4 @@
-# dgeEngine-SE-macOS
+# edgeEngine-SE-macOS
 
 edgeEngine for MacOS Platform
 

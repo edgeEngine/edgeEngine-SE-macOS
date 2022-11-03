@@ -19,5 +19,5 @@ tar xvf edgeEngine-macos-setup-v2.3.1.tar
 7. Please visit [Developer Console](https://developer.mimik.com/console/create_account) to create an account and get started with your projects
 
 ## NOTE:
-- Do not close terminal window where edgeEngine is running. Closing this window will terminate edgeEngine process
+- Do not close the terminal window where edgeEngine is running. Closing this window will terminate edgeEngine process
 - To stop edgeEngine, simply close or use keyboard shortcut CTRL + C in terminal window where edgeEngine is running 

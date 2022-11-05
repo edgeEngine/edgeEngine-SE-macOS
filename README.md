@@ -2,7 +2,13 @@
 
 edgeEngine for MacOS Platform
 
-# Installation Guide
+## Before you start  
+
+ [explore develoepr-doccumentation](developer.mimik.com)
+ 
+ [sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
+
+## Installation Guide
 
 1. Download latest release for MacOS [HERE](https://github.com/edgeEngine/edgeEngine-SE-macOS/releases)
 2. Create a new directory
@@ -18,6 +24,6 @@ tar xvf edgeEngine-macos-setup-v2.3.1.tar
 ```
 7. Please visit [Developer Console](https://developer.mimik.com/console/create_account) to create an account and get started with your projects
 
-## NOTE:
+## Notes:
 - Do not close the terminal window where edgeEngine is running. Closing this window will terminate edgeEngine process
 - To stop edgeEngine, simply close or use keyboard shortcut CTRL + C in terminal window where edgeEngine is running 

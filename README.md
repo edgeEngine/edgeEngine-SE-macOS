@@ -6,7 +6,7 @@ edgeEngine for MacOS Platform
 
  [explore develoepr-doccumentation](developer.mimik.com)
  
- sign up and create a mimik developer console account [HERE] (https://developer.mimik.com/console)
+ sign up and create a mimik developer console account[HERE](https://developer.mimik.com/console)
 
 ## Installation Guide
 

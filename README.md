@@ -16,13 +16,19 @@ edgeEngine for MacOS Platform
 4. Open terminal and navigate to the newly created directory that now has the downloaded .tar file
 5. Untar package (ex:)
 ```
-tar xvf edgeEngine-macos-setup-v2.3.1.tar
+tar xvf edgeEngine-macos-setup-v3.8.3.tar
 ```
-6. Run start script to start edgeEngine
+6. Enter the untarred folder
+```
+cd edgeEngine-SE-macOS-x86-v3.8.3
+```
+7. Run start script to start edgeEngine
 ```
 ./start.sh
 ```
-7. Please visit [Developer Console](https://developer.mimik.com/console/create_account) to create an account and get started with your projects
+Expect a couple of macOS system security popups, the first time you run edge. Allow edge to run, then go to the Settings app (Privacy & Security) to unblock edge at the bottom of the section. Then run ./start.sh again. Allow to run, if prompted again.
+
+8. Please visit [Developer Console](https://developer.mimik.com/console/create_account) to create an account and get started with your projects
 
 ## Notes:
 - Do not close the terminal window where edgeEngine is running. Closing this window will terminate edgeEngine process

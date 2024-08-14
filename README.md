@@ -1,5 +1,11 @@
 # edgeEngine-SE-macOS
 
+
+#### 🚨 **Important NOTE:** 🚨
+**This edgeEngine-SE-macOS repository has been archived and is no longer maintained.**  
+Please visit our new repository [mimOE-SE-macOS](https://github.com/mimik-mimOE/mimOE-SE-macOS) for the latest updates.
+
+---
 edgeEngine for MacOS Platform
 
 ## Before you start  
